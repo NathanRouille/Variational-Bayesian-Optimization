@@ -37,11 +37,11 @@ This repository contains my lab works for the imaging course 'Variational and Ba
 ## Lab 4: Advanced Graph Cut Optimization
 - **Objective**: Implement advanced graph-cut optimization techniques for grayscale image denoising.
 - **Key Topics**:
-  - Multilevel optimization using $α$-expansion and $α$-$β$ swap methods.
+  - Multilevel optimization using α-expansion and α-β swap methods.
   - Regularization potentials for Gaussian and Rayleigh noise models.
   - Energy minimization in noisy image restoration using PyMaxFlow.
 - **Skills Applied**:
-  - Implementation of $α$-expansion and $α$-$β$ swap algorithms.
+  - Implementation of α-expansion and α-β swap algorithms.
   - Exploration of noise distributions and data attachment potentials.
   - Practical application of graph-based optimization in image processing.
 
